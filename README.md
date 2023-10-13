@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 😁
- <img src="globo gif.gif" alt=""/>
+ <img src="cubos.gif" alt=""/>
  <div>
    <a href="https://github.com/Tailany24">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tailany24&layout=compact&langs_count=6&theme=onedark"/>
